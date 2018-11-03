@@ -28,7 +28,7 @@ SECRET_KEY = 'x#%6ca*9=)l!m%z6*i07j1%tjij%*#g)j2)f958+vrnb%@5-br'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','safdi.pythonanywhere.com']
 
 
 # Application definition
